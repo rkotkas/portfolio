@@ -12,4 +12,4 @@ Welcome to my portfolio! Here are some of the projects I've worked on:
 
 ## Contact
 - Email: redi.kotkas@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/redi-kotkas/])
+- [LinkedIn](https://www.linkedin.com/in/redi-kotkas/)
