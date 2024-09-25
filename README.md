@@ -14,7 +14,6 @@ Welcome to my portfolio! Here are some of the projects I've worked on:
 - Data Cleaning and Transformation
 - Unit Testing
 - API Integration
-- Data Transformation
 - Text Processing
 
 ## Contact
